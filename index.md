@@ -3,7 +3,7 @@ layout: docs-content
 title:  "Social Media Policy"
 ---
 
-Welcome to the "Social Media Policy", created by the RAC Social Media Team.
+This is a policy for creating and sharing content using the RAC's social media platforms. The policy is available under a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) dedication.
 
 ## Policy Statement
 
@@ -64,7 +64,7 @@ No postings on RAC social media should be initiated without approval as to tone 
 - RAC Assistant Director with responsibility over the subject matter of the post, or
 - President of the RAC
 
-*Any postings which have the potential to be controversial in nature **_must_** be approved by the Director of Archives **_or_** the President of the RAC before being posted. When in doubt, seek this level of approval.*
+*Any postings which have the potential to be controversial in nature **must** be approved by the Director of Archives **or** the President of the RAC before being posted. When in doubt, seek this level of approval.*
 
 RAC social media accounts can follow the social media accounts of RAC’s donor/depositor organizations, professional organizations relevant to the RAC’s mission and activities, and other archival and cultural heritage institutions and organizations.  RAC social media accounts should not follow personal accounts of individuals, including RAC staff personal accounts.
 
