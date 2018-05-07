@@ -3,7 +3,7 @@ layout: docs-content
 title:  "Social Media Policy"
 ---
 
-Welcome to the "Social Media Policy", created by the RAC Social Media Team.
+This is a policy for creating and sharing content using the RAC's social media platforms. The policy is available under a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) dedication.
 
 ## Social Media Policy
 
