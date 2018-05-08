@@ -3,8 +3,6 @@ layout: docs-content
 title:  "Social Media Policy"
 ---
 
-This is a policy for creating and sharing content using the RAC's social media platforms. The policy is available under a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) dedication.
-
 ## Policy Statement
 
 The Rockefeller Archive Center (RAC) will host and participate in social media platforms and online communities in order to share historical information and resources and to more broadly engage with the general public and the archival, philanthropic, and researcher communities.
@@ -106,3 +104,10 @@ A robust social media presence is an important aspect of the RAC’s public enga
 ## Annual Review
 
 This RAC Social Media Policy will be reviewed by the RAC Social Media Team at least once a year to ensure that it remains functional with regard to procedure and relevant to changing social media trends and usage.
+
+## Sources Consulted
+
+[Australian National Botanic Gardens](https://www.anbg.gov.au/index.html) Social Media Policy  
+[Paradigm Initiative Nigeria](https://pinigeria.org/) Social Media Policy  
+[Social Media Guidelines for ICRC Staff](http://sm4good.com/wp-content/uploads/2009/11/Red-Cross-Red-Crescent-SocialMedia-Guidelines.pdf), International Federation of Red Cross and Red Crescent Societies
+
