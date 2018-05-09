@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Social Media Policy"
+title:  "Rockefeller Archive Center Social Media Policy"
 ---
 
 ## Policy Statement
