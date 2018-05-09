@@ -1,5 +1,5 @@
 ---
-layout: docs-content
+layout: docs
 title:  "Social Media Policy"
 ---
 
