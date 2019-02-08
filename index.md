@@ -37,10 +37,12 @@ Examples of such platforms and networks include:
 ## RAC Social Media Team
 
 The RAC will maintain a Social Media team composed of employees throughout the organization. The Social Media Team will, at a minimum, include employees occupying the following positions within the RAC:
-- Director of Archives, who will serve as primary social media team lead
-- Assistant Director, Head of Reference, who will serve as back-up social media team lead
+-	Director of Archives, who will serve as primary social media team lead
+-	Assistant Director, Head of Reference, who will serve as a back-up social media team lead
+-	A designated Research and Education Program staff person, who will serve as a back-up social media team lead
 
-Additional employees, regardless of position and experience, are encouraged to participate on the Social Media Team on a voluntary basis. Ideally, the team will include someone from each RAC function area, including Research and Education. All team members should expect to contribute content to the RAC’s social media platforms.
+Additional employees, regardless of position and experience, are encouraged to participate on the Social Media Team on a voluntary basis. In addition to at least one person from the Research and Education Program, ideally, the team will include someone from each RAC function area. All team members should expect to contribute content to the RAC’s social media platforms.
+
 
 ## Purpose of Social Media
 
@@ -56,17 +58,18 @@ When posting content to social media and networking sites and platforms, it is h
 
 ## Posts, Likes, and Shares
 
-No postings on RAC social media should be initiated without approval as to tone and content from **_one_** of the following:
-- primary social media team lead (Director of Archives), or
-- back-up social media team lead (Assistant Director, Head of Reference), or
-- RAC Assistant Director with responsibility over the subject matter of the post, or
-- President of the RAC
+No postings on RAC social media should be initiated without approval as to tone and content from one of the following:
+-	primary social media team lead (Director of Archives), or
+-	back-up social media team lead (Assistant Director, Head of Reference, or the Research and Education designee), or
+-	RAC Assistant Director with responsibility over the subject matter of the post, or
+-	President of the RAC
 
-*Any postings which have the potential to be controversial in nature **must** be approved by the Director of Archives **or** the President of the RAC before being posted. When in doubt, seek this level of approval.*
+Any postings which have the potential to be controversial in nature must be approved by the Director of Archives or the President of the RAC before being posted. When in doubt, seek this level of approval.
 
-RAC social media accounts can follow the social media accounts of RAC’s donor/depositor organizations, professional organizations relevant to the RAC’s mission and activities, and other archival and cultural heritage institutions and organizations.  RAC social media accounts should not follow personal accounts of individuals, including RAC staff personal accounts.
+RAC social media accounts can follow the social media accounts of RAC’s donor/depositor organizations, professional organizations relevant to the RAC’s mission and activities, and other archival and cultural heritage institutions and organizations. RAC social media accounts may also follow accounts of individuals where the account is used primarily for professional purposes that relate to the RAC’s mission and activities, e.g., archivists, curators, historians, and philanthropy practitioners.  RAC social media accounts avoid following accounts of individuals where those accounts are used primarily to make statements or to express personal opinions unrelated to the RAC’s mission and activities. 
 
 RAC social media accounts may like and share postings made by organizations and individuals, including RAC staff, that comment on or mention the RAC’s activities and facilities, experiences at the RAC, and the work of RAC staff when such posts related to the staff member’s work for or at the RAC.
+
 
 ## Roles and Responsibilities
 
@@ -91,11 +94,14 @@ When using personal accounts to refer to the RAC or posting on personal or other
 ## Social Media Tips
 
 The best way to be interesting, stay out of trouble, and have fun with social media is to write about something that you know.
-- There is a good chance of being embarrassed by a real expert, or of being boring, if you write about topics of which you have limited knowledge.
-- Be concise.
-- Use a spell-checker.
-- The speed with which posts can be made is a blessing and a curse. The time to edit and reflect must be self-imposed. If in doubt about a post, of if something doesn’t feel right, either let it sit and look at it again later, or ask someone else to look at it.
-- And always, always, follow the approval process before posting to RAC social media.
+
+-	There is a good chance of being embarrassed by a real expert, or of being boring, if you write about topics of which you have limited knowledge.
+-	Don’t expressly suggest or state that the RAC has endorsed a product or a particular point of view. However, “liking” or sharing another account’s post or a comment posted to RAC social media does not imply endorsement since such activities are an important component of audience engagement.
+-	Be concise.
+-	Use a spell-checker.
+-	The speed with which posts can be made is a blessing and a curse. The time to edit and reflect must be self-imposed. If in doubt about a post, of if something doesn’t feel right, either let it sit and look at it again later, or ask someone else to look at it.
+-	And always, always, follow the approval process before posting to RAC social media.
+
 
 ## Let’s Not Forget Our Day Jobs
 
@@ -107,7 +113,9 @@ This RAC Social Media Policy will be reviewed by the RAC Social Media Team at le
 
 ## Sources Consulted
 
-[Australian National Botanic Gardens](https://www.anbg.gov.au/index.html) Social Media Policy  
-[Paradigm Initiative Nigeria](https://pinigeria.org/) Social Media Policy  
-[Social Media Guidelines for ICRC Staff](http://sm4good.com/wp-content/uploads/2009/11/Red-Cross-Red-Crescent-SocialMedia-Guidelines.pdf), International Federation of Red Cross and Red Crescent Societies
+- [Australian National Botanic Gardens](https://www.anbg.gov.au/index.html) Social Media Policy  
+- [Paradigm Initiative Nigeria](https://pinigeria.org/) Social Media Policy  
+- [Social Media Guidelines for ICRC Staff](http://sm4good.com/wp-content/uploads/2009/11/Red-Cross-Red-Crescent-SocialMedia-Guidelines.pdf), International Federation of Red Cross and Red Crescent Societies
 
+Workshop: 
+- “How did that post do?” by Jessica Johnson, Social Engagement Producer, Smithsonian National Museum of African American History and Culture; at “Humanizing the Digital,” annual conference of the Museum Computer Network, Denver, 2018
