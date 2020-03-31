@@ -34,16 +34,6 @@ Examples of such platforms and networks include:
 - Encyclopedias, such as Wikipedia
 - Other online communities
 
-## RAC Social Media Team
-
-The RAC will maintain a Social Media team composed of employees throughout the organization. The Social Media Team will, at a minimum, include employees occupying the following positions within the RAC:
--	Director of Archives, who will serve as primary social media team lead
--	Assistant Director, Head of Reference, who will serve as a back-up social media team lead
--	A designated Research and Education Program staff person, who will serve as a back-up social media team lead
-
-Additional employees, regardless of position and experience, are encouraged to participate on the Social Media Team on a voluntary basis. In addition to at least one person from the Research and Education Program, ideally, the team will include someone from each RAC function area. All team members should expect to contribute content to the RAC’s social media platforms.
-
-
 ## Purpose of Social Media
 
 When posting content to social media and networking sites and platforms, it is helpful to remember the reasons for doing so. When using RAC branded or owned social media, the aims should be to:
@@ -58,13 +48,9 @@ When posting content to social media and networking sites and platforms, it is h
 
 ## Posts, Likes, and Shares
 
-No postings on RAC social media should be initiated without approval as to tone and content from one of the following:
--	primary social media team lead (Director of Archives), or
--	back-up social media team lead (Assistant Director, Head of Reference, or the Research and Education designee), or
--	RAC Assistant Director with responsibility over the subject matter of the post, or
--	President of the RAC
+The President of the RAC will designate which RAC staff members have authority to post to official RAC social media accounts.
 
-Any postings which have the potential to be controversial in nature must be approved by the Director of Archives or the President of the RAC before being posted. When in doubt, seek this level of approval.
+Any postings which have the potential to be controversial in nature must be approved by the President of the RAC before being posted. When in doubt, seek this level of approval.
 
 RAC social media accounts can follow the social media accounts of RAC’s donor/depositor organizations, professional organizations relevant to the RAC’s mission and activities, and other archival and cultural heritage institutions and organizations. RAC social media accounts may also follow accounts of individuals where the account is used primarily for professional purposes that relate to the RAC’s mission and activities, e.g., archivists, curators, historians, and philanthropy practitioners.  RAC social media accounts avoid following accounts of individuals where those accounts are used primarily to make statements or to express personal opinions unrelated to the RAC’s mission and activities. 
 
@@ -73,7 +59,7 @@ RAC social media accounts may like and share postings made by organizations and 
 
 ## Roles and Responsibilities
 
-There are two capacities in which RAC staff can use social media platforms and communities in support of the RAC’s social media objectives: (1) using official RAC social media accounts or platforms as part of the RAC Social Media Team, and (2) using personal accounts to refer to the RAC or posting on personal or other non-RAC platforms about events or initiatives in which the staff person is representing the RAC in an official capacity, such as serving on professional committees and attending professional conferences.
+There are two capacities in which RAC staff can use social media platforms and communities in support of the RAC’s social media objectives: (1) using official RAC social media accounts or platforms, and (2) using personal accounts to refer to the RAC or posting on personal or other non-RAC platforms about events or initiatives in which the staff person is representing the RAC in an official capacity, such as serving on professional committees and attending professional conferences.
 
 When using official RAC social media accounts, staff should:
 - Promote the values and goals of the RAC
@@ -102,14 +88,9 @@ The best way to be interesting, stay out of trouble, and have fun with social me
 -	The speed with which posts can be made is a blessing and a curse. The time to edit and reflect must be self-imposed. If in doubt about a post, of if something doesn’t feel right, either let it sit and look at it again later, or ask someone else to look at it.
 -	And always, always, follow the approval process before posting to RAC social media.
 
-
-## Let’s Not Forget Our Day Jobs
-
-A robust social media presence is an important aspect of the RAC’s public engagement. But social media, both professional and personal, can be a distraction. Make sure that time spent online, especially on social media, does not interfere with our jobs or our commitments to our stakeholders.
-
 ## Annual Review
 
-This RAC Social Media Policy will be reviewed by the RAC Social Media Team at least once a year to ensure that it remains functional with regard to procedure and relevant to changing social media trends and usage.
+This RAC Social Media Policy will be reviewed once a year to ensure that it remains functional with regard to procedure and relevant to changing social media trends and usage.
 
 ## Sources Consulted
 
