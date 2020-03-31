@@ -50,7 +50,7 @@ When posting content to social media and networking sites and platforms, it is h
 
 The President of the RAC will designate which RAC staff members have authority to post to official RAC social media accounts.
 
-Any postings which have the potential to be controversial in nature must be approved by the Director of Archives or the President of the RAC before being posted. When in doubt, seek this level of approval.
+Any postings which have the potential to be controversial in nature must be approved by the President of the RAC before being posted. When in doubt, seek this level of approval.
 
 RAC social media accounts can follow the social media accounts of RAC’s donor/depositor organizations, professional organizations relevant to the RAC’s mission and activities, and other archival and cultural heritage institutions and organizations. RAC social media accounts may also follow accounts of individuals where the account is used primarily for professional purposes that relate to the RAC’s mission and activities, e.g., archivists, curators, historians, and philanthropy practitioners.  RAC social media accounts avoid following accounts of individuals where those accounts are used primarily to make statements or to express personal opinions unrelated to the RAC’s mission and activities. 
 
